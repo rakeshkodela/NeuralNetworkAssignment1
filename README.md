@@ -58,3 +58,8 @@ else:
     
   output:
   for example if i give my input value as 25 then the output is F  because it is not accepting the above condition and i give input as 91 then output is A 
+  
+  
+  below are the drive links for source code and proof of outputs
+  source code :https://drive.google.com/file/d/1oIjbWpG_9W70dUlM4Cbw8bTLFlI0wVpX/view?usp=share_link
+  output file screenshots:https://docs.google.com/document/d/1tYNjmfXvsbVuzIrYcxHH2VBNDctCIk3t/edit?usp=share_link&ouid=111704106415671576092&rtpof=true&sd=true
